@@ -1,4 +1,4 @@
-# a simple program to notify you whhen you're back online
+# a simple program to notify you when you're back online
 
 import os #for system commands
 from datetime import datetime  #for noting the time
