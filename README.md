@@ -6,3 +6,5 @@
 <br> The WiFi was acting weird, I wanted to be notified when it goes online again.
 <br>
 <br>
+# Tip
+<br> Add netnotify to your System Environment Variable for system wide access.
